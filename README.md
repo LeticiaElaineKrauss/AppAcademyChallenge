@@ -60,7 +60,7 @@ Para te ajudar, disponibilizaremos os seguintes fatos:
 - compacta (como **.zip**) a pasta contendo **APENAS** os arquivos fontes do seu programa
 - Você pode entregar os comandos SQL utilizados em um TXT junto com os arquivos de desenvolvimento :)
 
-Por fim, enviar um e-mail com a solução em anexo para [rh@premiersoft.net](mailto:rh@premiersoft.net). No título botar:
+Por fim, enviar um e-mail com a solução em anexo para [rh@premiersoft.net](mailto:rh@premiersoft.net). No título colocar:
 > Desafio AppAcademy - {NOME_COMPLETO} - {VAGA}
 
 Exemplo:
