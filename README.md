@@ -42,7 +42,8 @@ Exemplo:
 
 ## Mais uma coisinha...
 
-Gostariamos de testar também seus conhecimentos na linguagem de SQL. Por isso incluímos o nome da instrutora de QA do AppAcademy na planilha e queremos que você faça um select na tabela de Candidatos capaz de mostrar o nome da instrutora da vaga para qual você se inscreveu.
+Gostariamos de testar também seus conhecimentos na linguagem de SQL. 
+Por isso incluímos o nome da instrutora de QA do AppAcademy na planilha de candidatos e queremos que você faça um select na tabela de Candidatos capaz de mostrar o nome da instrutora da vaga para qual você se inscreveu.
 
 Para te ajudar, disponibilizaremos os seguintes fatos:
 
@@ -51,6 +52,12 @@ Para te ajudar, disponibilizaremos os seguintes fatos:
 - a instrutora é de SC.
 - o ultimo nome da instrutora termina com "ss".
 - o nome da instrutora contém as vogais "ia" juntas.
+
+Além disso, gostaria que você faça alguns selects nessa tabela para orientar os dados de forma que nos ajude a fazer algumas análises:
+
+- Ordenar a listagem do canditato mais velho para o mais novo apresentando apenas o nome e idade.
+- Agrupar os candidatos por estado e mostrar a quantidade de inscritos por estado.
+- Mostrar a média da idade dos candidatos inscritos para a vaga de Android.
 
 ## 🎉 Consegui! e agora !?
 
