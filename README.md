@@ -12,7 +12,7 @@ Portanto, para simplificar a contabilização desses indicadores e possibilitar 
 
 ## Getting started ☕️
 
-teste  Na pasta principal desse repositório há uma planilha chamada [**AppAcademy_Candidates.csv**](./AppAcademy_Candidates.csv). Essa planilha contém algumas informações básicas de alguns candidatos que se inscreveram para o **AppAcademy**. Lá você encontrará dados como **nome**, **vaga**, **idade** e **estado**. Para proteger a identidade dos participantes, os nomes foram gerados aleatoriamente. O seu programa deve consumir esses dados para atender os critérios descritos a seguir.
+Na pasta principal desse repositório há uma planilha chamada [**AppAcademy_Candidates.csv**](./AppAcademy_Candidates.csv). Essa planilha contém algumas informações básicas de alguns candidatos que se inscreveram para o **AppAcademy**. Lá você encontrará dados como **nome**, **vaga**, **idade** e **estado**. Para proteger a identidade dos participantes, os nomes foram gerados aleatoriamente. O seu programa deve consumir esses dados para atender os critérios descritos a seguir.
 
 ## O que precisamos que o programa faça ?
 
@@ -73,7 +73,7 @@ Exemplo:
 Talvez essa possa ser a sua dúvida.
 
 ### Qual é o prazo para entregar a solução ?
-> No máximo até 21/05/2021 às 23:59 (horário de brasília).
+> No máximo até 18/06/2021 às 23:59 (horário de brasília).
 
 ### Fiz uso de biblioteca(s) para criar o programa. Preciso incluí-las no aquivo ".zip" ?
 > Todas as linguagens especificadas acima conseguem atender os requisitos do desafio sem a necessidade de biblioteca(s) de terceiros. Caso o propósito da biblioteca seja auxiliar em tarefas além das definidas como [requisitos desse programa](#o-que-precisamos-que-o-programa-faça-) (criação de interfaces gráficas, por exemplo), então você deve incluí-las junto ao seu arquivo **.zip** a ser enviado.
