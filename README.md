@@ -17,39 +17,19 @@ teste  Na pasta principal desse repositório há uma planilha chamada [**AppAcad
 ## O que precisamos que o programa faça ?
 
 - mostrar a porcentagem de candidatos de **Android**, **iOS** e **QA**
-- mostrar a idade média dos candidatos de **QA**
+- mostrar a quantidade de candidatos de **QA** com menos de 25 anos
+- mostrar a quantidade de candidatos de **QA** com 26 anos ou mais
 - mostrar o número de estados distintos presentes na lista
-- mostrar o nome do estado e a quantidade de candidatos dos 2 estados com menos ocorrências
-- ordenar por ordem alfabética a lista de candidatos e salvar como **Sorted_AppAcademy_Candidates.csv**
-
-## Mais uma coisinha...
-
-Incluímos o nome dos instrutores de **Android** e **iOS** do **AppAcademy** na planilha. Queremos que o seu programa seja capaz de mostrar o nome do instrutor da vaga para qual você se inscreveu.
-
-Para ~~complicar~~ te ajudar, disponibilizaremos os seguintes fatos:
-- o instrutor de **iOS** tem mais de 20 anos
-- o instrutor de **Android** é mais ~~esperto~~ novo do que o instrutor do **iOS**
-- a idade do instrutor de **iOS** é um número primo
-- o primeiro nome do instrutor de **Android** tem 3 vogais
-- a última letra do primeiro nome do instrutor de **Android** é a letra "o"
-- a primeira letra do último nome do instrutor de **iOS** é a letra "V"
-- a idade dos instrutores é um número ímpar
-- os instrutores nasceram na mesma década
-- os instrutores tem menos de 31 anos
-- a vaga atribuída aos instrutores (na planilha) não é a vaga na qual eles vão instruir
-- os instrutores são de SC
+- mostrar a quantidade de candidatos inscritos em  **QA** que são de fora de Santa Catarina
 
 ## Pick your tool 👇
 
 Aceitaremos apenas programas desenvolvidos nessas linguagens:
 - Python
 - Java
-- JavaScript (ou TypeScript)
-- Bash
+- JavaScript 
 - Kotlin
 - Swift
-- Objective-C
-- C/C++
 - C#
 
 ## Como o seu programa deve parecer ?
@@ -59,9 +39,18 @@ Não estamos avaliando interfaces gráficas nesse momento. Você pode entregar a
 Exemplo:
 ![alt text](__assets/py_academy_numbers.png)
 
-Caso queira elaborar uma interface, sem problemas!
 
-🤔💭*mostrar a porcentagem de candidatos por vaga em gráfico de 🍕...*
+## Mais uma coisinha...
+
+Gostariamos de testar também seus conhecimentos na linguagem de SQL. Incluímos o nome da instrutora de QA do AppAcademy na planilha e queremos que você faça um select na tabela de Candidatos capaz de mostrar o nome da instrutora da vaga para qual você se inscreveu.
+
+Para te ajudar, disponibilizaremos os seguintes fatos:
+
+- a instrutora de QA está inscrita na vaga de QA.
+- a instrutora de QA tem mais de 20 anos.
+- a instrutora é de SC.
+- o ultimo nome da instrutora termina com "ss".
+- o nome da instrutora contém as vogais "ia" juntas.
 
 ## 🎉 Consegui! e agora !?
 
@@ -69,12 +58,13 @@ Caso queira elaborar uma interface, sem problemas!
 - deixe o mais **clean** possível
 - teste o seu programa
 - compacta (como **.zip**) a pasta contendo **APENAS** os arquivos fontes do seu programa
+- Você pode entregar os comandos SQL utilizados em um TXT junto com os arquivos de desenvolvimento :)
 
 Por fim, enviar um e-mail com a solução em anexo para [rh@premiersoft.net](mailto:rh@premiersoft.net). No título botar:
 > Desafio AppAcademy - {NOME_COMPLETO} - {VAGA}
 
 Exemplo:
-> Desafio AppAcademy - John Doe - Android
+> Desafio AppAcademy - John Doe - QA
 
 *GLHF*
 
