@@ -42,7 +42,7 @@ Exemplo:
 
 ## Mais uma coisinha...
 
-Gostariamos de testar também seus conhecimentos na linguagem de SQL. Incluímos o nome da instrutora de QA do AppAcademy na planilha e queremos que você faça um select na tabela de Candidatos capaz de mostrar o nome da instrutora da vaga para qual você se inscreveu.
+Gostariamos de testar também seus conhecimentos na linguagem de SQL. Por isso incluímos o nome da instrutora de QA do AppAcademy na planilha e queremos que você faça um select na tabela de Candidatos capaz de mostrar o nome da instrutora da vaga para qual você se inscreveu.
 
 Para te ajudar, disponibilizaremos os seguintes fatos:
 
