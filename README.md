@@ -37,7 +37,7 @@ Aceitaremos apenas programas desenvolvidos nessas linguagens:
 Não estamos avaliando interfaces gráficas nesse momento. Você pode entregar algo visualmente simples, contando que atenda os [critérios citados](#o-que-precisamos-que-o-programa-faça-).
 
 Exemplo:
-![alt text](__assets/py_academy_numbers.png)
+![alt text](__assets/AcademyNumbers.png)
 
 
 ## Mais uma coisinha...
