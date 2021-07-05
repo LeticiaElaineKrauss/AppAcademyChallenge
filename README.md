@@ -66,9 +66,9 @@ Além disso, gostaria que você faça alguns selects nessa tabela para orientar 
 - deixe o mais **clean** possível
 - teste o seu programa
 - compacta (como **.zip**) a pasta contendo **APENAS** os arquivos fontes do seu programa
-- Você pode entregar os comandos SQL utilizados em um TXT junto com os arquivos de desenvolvimento :)
+- Grave em um arquivo.txt os comandos SQL utilizados
 
-Por fim, enviar um e-mail com a solução em anexo para [rh@premiersoft.net](mailto:rh@premiersoft.net). No título colocar:
+Por fim, enviar um e-mail com as soluções em anexo para [rh@premiersoft.net](mailto:rh@premiersoft.net). No título colocar:
 > Desafio AppAcademy - {NOME_COMPLETO} - {VAGA}
 
 Exemplo:
